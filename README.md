@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryota0127&layout=compact&show_icons=true&theme=onedark" />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryota0127&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryota0127&theme=onedark&show_icons=ture" />
